@@ -10,7 +10,7 @@
 	color: #FFF!important;
 	border-radius: 0;
 	font-weight: bold;
-	padding: 12px;
+    padding: 12px;
 }
 	.btn:hover {
 		background-color: #0d6f62;
@@ -443,6 +443,9 @@ only screen and (min-device-pixel-ratio: 1.5) {
 }
 .ui-buttons .url {
     clear: both;
+}
+.hide-elment {
+    display: none;
 }
 .ui-buttons div:nth-child(4) {
 	margin-top: 15px;

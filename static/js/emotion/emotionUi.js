@@ -125,7 +125,7 @@ $(".webcam-button").click(function(e){
 	};
 });
 
-// setInterval(function(){$(".webcam-button").click();}, 10000);
+setInterval(function(){$(".webcam-button").click();}, 30000);
 
 // disable upload button if processing is 
 // taking place from another module
